@@ -50,3 +50,12 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 ---
 
 📫 **Connect with me:** Let's talk about packets, ports, or protocols!
+
+---
+
+## 📅 Daily Cybersecurity Log
+
+| Date | What I Accomplished / Learned | Resource Used |
+| :--- | :--- | :--- |
+| 15-06-2026 | Created structured GitHub roadmap (5 core repos). Set up THM & reached Top 75%. | Mobile Environment |
+| 16-06-2026 | Starting foundational Networking concepts & preparing local environment setup. | Pending Laptop Arrival |
