@@ -32,7 +32,12 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
     </td>
   </tr>
 </table>
+### 🛠️ Skills & Tools I am Learning
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
 ---
 
 ## 📂 Featured Repositories & Prior Work
