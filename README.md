@@ -12,27 +12,6 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 ---
 
 ## 🛠️ Skills & Tools I am Learning
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Bash" />
-      <br>Bash Scripts
-    </td>
-    <td align="center" width="96">
-      <img src="https://icons8.com" width="48" height="48" alt="Wireshark" />
-      <br>Wireshark
-    </td>
-  </tr>
-</table>
-### 🛠️ Skills & Tools I am Learning
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
