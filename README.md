@@ -58,4 +58,4 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 | Date | What I Accomplished / Learned | Resource Used |
 | :--- | :--- | :--- |
 | 15-06-2026 | Created structured GitHub roadmap (5 core repos). Set up THM & reached Top 75%. | Mobile Environment |
-| 16-06-2026 | Starting foundational Networking concepts & preparing local environment setup. | Pending Laptop Arrival |
+| 16-06-2026 | Unboxed laptop, configuerd local enviroment, and reached TryHackMe Top 70 %. |  Laptop Enviroment | 
