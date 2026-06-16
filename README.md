@@ -44,5 +44,4 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 | 15-06-2026 | Created structured GitHub roadmap (5 core repos). Set up THM & reached Top 75%. | Mobile Environment |
 | 16-06-2026 | Unboxed laptop, configured local environment, completed THM Linux Fundamentals Part 1, and pushed global rank to Top 60% (221 pts). | Laptop Environment |
 | 16-06-2026 (Night) | Crossed **389+ Points** (Top 55% Global Rank), solved **57 cyber challenges**, and completed 74% of Advanced SQLi | TryHackMe Lab | Laptop Environment |
-
 | 16-06-2026 (Day)  | Unlocked **Level 3 [PATHFINDER]**, entered **Silver League**, crossed **533+ Points** (Top 45% Global), and 100% completed SQLi & Preparation rooms | TryHackMe Labs | Laptop Environment |
