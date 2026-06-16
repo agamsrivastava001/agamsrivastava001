@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me 
-Passionate cybersecurity learner with hands-on experience in TryHackMe labs, Linux, networking, and Python scripting. Currently building practical cybersecurity projects and documenting learning through GitHub repositories.
+I am a highly motivated cybersecurity enthusiast focused on building a strong foundation in network security, defensive operations, and ethical hacking. Currently, I am actively building my **Proof of Work** and showcasing prior experience ahead of the **IIT Kanpur B.Cyber** selection process and on-campus hackathon.
 - 🎯 **Current Goal:** Excel in the IITK B.Cyber practical evaluation.
 - ⚡ **Fun Fact:** I believe in "Learn by Doing"—my GitHub green graph is my daily commitment tracker.
 
@@ -46,3 +46,4 @@ Passionate cybersecurity learner with hands-on experience in TryHackMe labs, Lin
 | 16-06-2026 (Day)  | Unlocked **Level 3 [PATHFINDER]**, entered **Silver League**, crossed **533+ Points** (Top 45% Global), and 100% completed SQLi & Preparation rooms | TryHackMe Labs | Laptop Environment |
 | 16-06-2026 (Day)  | Unlocked **Level 3 [PATHFINDER]**, secured **Rank 4 in Silver League**, crossed **683+ Points** (Top 40% Global), and solved **96+ cybersecurity challenges** | TryHackMe Labs | Laptop Environment |
 | 16-06-2026 (Day)  | Hit **835+ Points** (Top 40% Global), answered **119+ questions**, and 100% completed "Detection & Analysis", "Putting It All Together", & "Inside a Computer" | TryHackMe Labs | Laptop Environment |
+| 16-06-2026 (Night) | Hit **915+ Points** (Top 35% Global), 100% completed "Putting It All Together" & "Inside a Computer", and 50% of Medium-level "Detection Engineering" | TryHackMe Labs | Laptop Environment |
