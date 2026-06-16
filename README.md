@@ -46,3 +46,4 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 | 16-06-2026 (Night) | Crossed **389+ Points** (Top 55% Global Rank), solved **57 cyber challenges**, and completed 74% of Advanced SQLi | TryHackMe Lab | Laptop Environment |
 | 16-06-2026 (Day)  | Unlocked **Level 3 [PATHFINDER]**, entered **Silver League**, crossed **533+ Points** (Top 45% Global), and 100% completed SQLi & Preparation rooms | TryHackMe Labs | Laptop Environment |
 | 16-06-2026 (Day)  | Unlocked **Level 3 [PATHFINDER]**, secured **Rank 4 in Silver League**, crossed **683+ Points** (Top 40% Global), and solved **96+ cybersecurity challenges** | TryHackMe Labs | Laptop Environment |
+| 16-06-2026 (Day)  | Hit **835+ Points** (Top 40% Global), answered **119+ questions**, and 100% completed "Detection & Analysis", "Putting It All Together", & "Inside a Computer" | TryHackMe Labs | Laptop Environment |
