@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Agam Srivastava!
-### 🛡️ Cybersecurity Aspirant | Future B.Cyber Student @ IIT Kanpur (Targeting 2026 Batch)
+### 🛡️ Cybersecurity Aspirant | targeting is Future B.Cyber Student @ IIT Kanpur (Targeting 2026 Batch)
 
 ---
 
-## 🚀 About Me
-I am a highly motivated cybersecurity enthusiast focused on building a strong foundation in network security, defensive operations, and ethical hacking. Currently, I am actively building my **Proof of Work** and showcasing prior experience ahead of the **IIT Kanpur B.Cyber** selection process and on-campus hackathon.
-
+## 🚀 About Me 
+Passionate cybersecurity learner with hands-on experience in TryHackMe labs, Linux, networking, and Python scripting. Currently building practical cybersecurity projects and documenting learning through GitHub repositories.
 - 🎯 **Current Goal:** Excel in the IITK B.Cyber practical evaluation.
 - ⚡ **Fun Fact:** I believe in "Learn by Doing"—my GitHub green graph is my daily commitment tracker.
 
