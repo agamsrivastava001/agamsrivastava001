@@ -18,8 +18,7 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 ---
 
 ## 📂 Featured Repositories & Prior Work
-*   **[THM-WALKTHROUGH](./THM-WALKTHROUGH):** Detailed write-ups, structured logical methodologies, and tool breakdowns for TryHackMe rooms (Defensive & Networking).
-
+- [THM-WALKTHROUGH](https://github.com/agamsrivastava001/agamsrivastava001/blob/main/THM-WALKTHROUGH) : Detailed write-ups, structured logical methodologies...
 ---
 
 ## 📊 My Cybersecurity Journey
