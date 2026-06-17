@@ -48,3 +48,4 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 | 16-06-2026 (Day)  | Hit **835+ Points** (Top 40% Global), answered **119+ questions**, and 100% completed "Detection & Analysis", "Putting It All Together", & "Inside a Computer" | TryHackMe Labs | Laptop Environment |
 | 16-06-2026 (Night) | Hit **915+ Points** (Top 35% Global), 100% completed "Putting It All Together" & "Inside a Computer", and 50% of Medium-level "Detection Engineering" | TryHackMe Labs | Laptop Environment |
 | 17-06-2026 | **Mastering Windows Basics:** Completed 100% of the "Introduction to Windows" module. Explored Windows architecture, file systems, and core security concepts. Reached 1067+ total points (Level 4 - Seeker) and entered the Top 35% globally. | TryHackMe Labs |
+17-06-2026 | Reached Top 30% globally (1411 pts, 206 questions). Finished THM 'How The Web Works' and updated walkthrough logs. | TryHackMe Labs
