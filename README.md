@@ -16,9 +16,20 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
 ---
-
 ## 📂 Featured Repositories & Prior Work
-- [THM-WALKTHROUGH](https://github.com/agamsrivastava001/agamsrivastava001/blob/main/THM-WALKTHROUGH) : Detailed write-ups, structured logical methodologies...
+
+- [THM-WALKTHROUGH-](./../THM-WALKTHROUGH-) : Detailed write-ups, structured logical methodologies, and tool breakdowns for TryHackMe rooms (Defensive & Networking).
+
+## 📊 My Cybersecurity Journey
+
+- 🌐 **TryHackMe Profile:** [agamsrivastava001](https://tryhackme.com/p/agamsrivastava001)
+- 📈 **Next Milestones:**
+  - [ ] Complete TryHackMe Pre-Security Path
+  - [ ] Build custom automation scripts for Network Reconnaissance
+  - [ ] Document 15+ complex lab walkthroughs with proper methodology
+
+📫 *Connect with me:* Let's talk about packets, ports, or protocols!
+
 ---
 
 ## 📊 My Cybersecurity Journey
