@@ -47,6 +47,4 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 | 16-06-2026 (Day)  | Unlocked **Level 3 [PATHFINDER]**, secured **Rank 4 in Silver League**, crossed **683+ Points** (Top 40% Global), and solved **96+ cybersecurity challenges** | TryHackMe Labs | Laptop Environment |
 | 16-06-2026 (Day)  | Hit **835+ Points** (Top 40% Global), answered **119+ questions**, and 100% completed "Detection & Analysis", "Putting It All Together", & "Inside a Computer" | TryHackMe Labs | Laptop Environment |
 | 16-06-2026 (Night) | Hit **915+ Points** (Top 35% Global), 100% completed "Putting It All Together" & "Inside a Computer", and 50% of Medium-level "Detection Engineering" | TryHackMe Labs | Laptop Environment |
-| Date | What I Accomplished / Learned | Resource Used |
-| :--- | :--- | :--- |
 | 17-06-2026 | **Mastering Windows Basics:** Completed 100% of the "Introduction to Windows" module. Explored Windows architecture, file systems, and core security concepts. Reached 1067+ total points (Level 4 - Seeker) and entered the Top 35% globally. | TryHackMe Labs |
