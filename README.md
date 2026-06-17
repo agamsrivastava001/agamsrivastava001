@@ -32,19 +32,6 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 
 ---
 
-## 📊 My Cybersecurity Journey
-*   🌐 **TryHackMe Profile:** [agamsrivastava001](https://tryhackme.com) *(Update this link with your actual username if needed)*
-*   📈 **Next Milestones:**
-    *   [ ] Complete TryHackMe Pre-Security Path
-    *   [ ] Build custom automation scripts for Network Reconnaissance
-    *   [ ] Document 15+ complex lab walkthroughs with proper methodology
-
----
-
-📫 **Connect with me:** Let's talk about packets, ports, or protocols!
-
----
-
 ## 📅 Daily Cybersecurity Log
 
 | Date | What I Accomplished / Learned | Resource Used |
