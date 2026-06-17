@@ -24,7 +24,7 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 
 - 🌐 **TryHackMe Profile:** [agamsrivastava001](https://tryhackme.com/p/agamsrivastava001)
 - 📈 **Next Milestones:**
-  - [ ] Complete TryHackMe Pre-Security Path
+    (Current Progress: 🚀 Top 25% | Level 5 Visionary)
   - [ ] Build custom automation scripts for Network Reconnaissance
   - [ ] Document 15+ complex lab walkthroughs with proper methodology
 
@@ -45,3 +45,4 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 | 16-06-2026 (Night) | Hit **915+ Points** (Top 35% Global), 100% completed "Putting It All Together" & "Inside a Computer", and 50% of Medium-level "Detection Engineering" | TryHackMe Labs | Laptop Environment |
 | 17-06-2026 | **Mastering Windows Basics:** Completed 100% of the "Introduction to Windows" module. Explored Windows architecture, file systems, and core security concepts. Reached 1067+ total points (Level 4 - Seeker) and entered the Top 35% globally. | TryHackMe Labs |
 17-06-2026 | Reached Top 30% globally (1411 pts, 206 questions). Finished THM 'How The Web Works' and updated walkthrough logs. | TryHackMe Labs
+| 17-06-2026 (Evening) | 🚀 **Hit Top 25% Globally (1672+ Points) & Unlocked Level 5 [VISIONARY]**! 100% completed "Data Representation" & "Data Encoding" (Network Module). Also finished "Intro to Security Engineering" & "Security Principles" rooms. | TryHackMe Labs |
