@@ -46,3 +46,4 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 | 17-06-2026 | **Mastering Windows Basics:** Completed 100% of the "Introduction to Windows" module. Explored Windows architecture, file systems, and core security concepts. Reached 1067+ total points (Level 4 - Seeker) and entered the Top 35% globally. | TryHackMe Labs |
 17-06-2026 | Reached Top 30% globally (1411 pts, 206 questions). Finished THM 'How The Web Works' and updated walkthrough logs. | TryHackMe Labs
 | 17-06-2026 (Evening) | 🚀 **Hit Top 25% Globally (1710+ Points) & Unlocked Level 5 [VISIONARY]**! 100% completed "Data Representation" & "Data Encoding" (Network Module). Also finished "Intro to Security Engineering" & "Security Principles" rooms. | TryHackMe Labs |
+17-06-2026 (Night),"🚀 Hit 1902+ Points & Answered 264 Questions! Entered Silver League Rank 4. Completed 66% of ""Operating Systems: Introduction"" and revised old concepts.",TryHackMe Labs
