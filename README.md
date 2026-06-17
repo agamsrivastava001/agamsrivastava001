@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Agam Srivastava!
-### 🛡️ Cybersecurity Aspirant | targeting is Future B.Cyber Student @ IIT Kanpur (Targeting 2026 Batch)
+### 🛡️ Cybersecurity Aspirant | 🚀 Prospective B.Cyber Student @ IIT Kanpur (Targeting 2026 Batch)
 
 ---
 
