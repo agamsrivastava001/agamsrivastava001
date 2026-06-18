@@ -4,7 +4,10 @@
 
 ## 🚀 About Me 
 I am a highly motivated cybersecurity enthusiast focused on building a strong foundation in network security, defensive operations, and ethical hacking. Currently, I am actively building my **Proof of Work** and showcasing prior experience ahead of the **IIT Kanpur B.Cyber** selection process and on-campus hackathon.
+-
 - 🎯 **Current Goal:** Excel in the IITK B.Cyber practical evaluation.
+- *Future Vision:* I am deeply fascinated by the intersection of Cybersecurity and Artificial Intelligence. My long-term vision is to leverage Machine Learning (ML) to develop automated, threat-proof defense mechanisms. Ultimately, I aim to utilize these skills to secure critical infrastructure and contribute to advanced national cyber-defense operations.
+
 - ⚡ **Fun Fact:** I believe in "Learn by Doing"—my GitHub green graph is my daily commitment tracker.
 
 ---
