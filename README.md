@@ -52,3 +52,4 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 |17-06-2026 (Night)|  Hit 1902+ Points & Answered 264 Questions! Entered Silver League Rank 4. Completed 100% of ""Operating Systems: Introduction"" and revised old concepts. |TryHackMe Labs|
 |18-06-2026(Day) | **Hit 2046+ points & Answered 286+ Question! Unlocked Level 6 [VOYAGER]**! Entered Silver League Rank 3. Also Reached  Top 20% Globally " 100% Complete Cloud Computing basic fundamentals & Windows Basics. | TryHackMe Labs|
 |18-06-2026(night)| **Hit 2530+ points & answerd 356+ Questions!** and Complete AI-ML theret finding,& Prompt Engineering,AI-Forensic and Revised the old concept. | TryHackMe Labs|
+|19-06-2026 (Day & Night) | **Hit 2766+ Points & answered 387+ Question!** and complete the securing AI system & LLM Security and revise the old concept of python language and linux also..| TryHackMe Labs| 
