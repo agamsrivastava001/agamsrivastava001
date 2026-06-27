@@ -56,4 +56,5 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 |20-06-2026 ( Day & Night) |  **Hit 3005+ Points & answerd 407+ Questions! & unlocked the Leval 7(Adept)** and complete the 100% module of AI-Fundamentals and won the the new Badge( Adversarial Defence Ops) and revise the old concept to build thre foundation strong...| TryHackMeLabs|
 |21-06-2026 (Day) |  ** Hit 3365+ and consider in Top 15% Malware Introductory and securing AI system completely** and revise old concept...| TryHackMe Labs |
 |22-06-2026; 23-06-2026 | **Hit 3670+ points and consider in top 15% globally complete the windows fundamental part 1,2(90%) and completely 3 and 4... and unlock the golden league** | TryHackMe Labs|
+|26-06-2026, 27-06-2026 | **Hit 3790+ points and consider in top 9% globally with rank of 201339 and complete the search hub woth 95%**  | TryHackMe Labs |
 
