@@ -27,7 +27,7 @@ I am a highly motivated cybersecurity enthusiast focused on building a strong fo
 
 - 🌐 **TryHackMe Profile:** [agamsrivastava001](https://tryhackme.com/p/agamsrivastava001)
 - 📈 **Next Milestones:**
-    (Current Progress: 🚀 Top 15% | Level 7 Adept ) Entered In Golden League ....
+    (Current Progress: 🚀 Top 9%  | Level 7 Adept ) Entered In Golden League .... Rank- 201339 
   - [ ] Build custom automation scripts for Network Reconnaissance
   - [ ] Document 15+ complex lab walkthroughs with proper methodology
 
